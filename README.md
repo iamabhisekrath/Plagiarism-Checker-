@@ -1,1 +1,2 @@
-# Plagiarism-Checker-
+# Plagiarism
+Plagiarism Checker Website
